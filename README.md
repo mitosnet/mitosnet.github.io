@@ -2,7 +2,7 @@ About:
 A collective website of all my socials and my personal home to post content on
 
 Tabs:
-Home - https://mitos.github.io
+Home - https://mitosnet.github.io
 Recent Content - When this gets made this'll be automatically shown content from all platforms I make stuff on that will show up there
 
 Socials:
