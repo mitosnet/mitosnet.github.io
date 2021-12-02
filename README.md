@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+About:
+A collective website of all my socials and my personal home to post content on
 
-You can use the [editor on GitHub](https://github.com/xizorh/mitos.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Tabs:
+Home - https://mitos.github.io
+Recent Content - When this gets made this'll be automatically shown content from all platforms I make stuff on that will show up there
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Socials:
+Youtube Main - https://www.youtube.com/channel/UC8AZ0Xg48JiYNqizM1ZQjFA/featured (mitos)
+Youtube Alt - https://www.youtube.com/channel/UCMlxtfLW_ejuqzMVwEOWBiA
+Twitch - https://www.twitch.tv/xizorh
+VidLii - https://www.vidlii.com/user/Mitos (2010 YT Theme Clone)
+Discord - Private = I have it but I don't want any weirdos adding me.
+Also I ain't ready for a discord server yet not enough fans.
+When I hit 100 maybe I will create one.
+Twitter - I had it but my account got wiped out again and again for some reason. I am not aware of causing any trouble, this happened to so much people most likely because I didn't want to add my phone number to it (AKA No way to identify me anymore and I hardly ever logged in anyway) Either way this website is extremely restricted I don't like it and I get annoyed about the limited number of letters you can write there.
+Instagram - Same as Twitter (Loved it and it was fun while it lasted...)
+Reddit - I have it but don't use it, should do but I'm too lazy to start on that platform, either way = https://www.reddit.com/user/xizorh
 
-### Markdown
+Games: PC/PS2/S1
+(Under this it's all for PC)
+Main Steam - https://steamcommunity.com/id/mitos1997/
+Steam just for CSGO - https://steamcommunity.com/id/JourneyToTheSoul
+Rockstars - https://socialclub.rockstargames.com/member/optimitos
+Heroes & Generals - Xizorh
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This website will always be a work-in-progress as it can always get better
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xizorh/mitos.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you so much for visiting!
+^_^
